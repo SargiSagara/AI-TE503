@@ -1,2 +1,2 @@
 # AI-TE503
-Tugas Mata Kuliah Kecerdasan Buatan
+Sistem Navigasi Kampus & Pakar Karir Teknik
