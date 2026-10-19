@@ -1,2 +1,10 @@
-# AI-TE503
-Rute Kampus
+# AI-TE103
+
+## Introduction
+
+## Requirements
+- Python 
+
+## How to Use
+
+## Running
